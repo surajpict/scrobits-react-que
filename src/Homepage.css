@@ -1,0 +1,26 @@
+*{
+    background-color: yellow;
+    
+}
+
+div{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin-top: 250px;
+}
+
+button{
+    background-color: black;
+    font-size: 22px;
+    margin: 0 3px;
+    height: 100px;
+    color: white;
+    display: inline-flex;
+    align-items: flex-end;
+    
+}
+
+.height{
+    height: 200px;
+}
